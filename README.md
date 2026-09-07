@@ -18,7 +18,7 @@ The problem also affects teams responsible for growth, marketing, customer reten
 What is not sufficiently understood is which client characteristics and behaviours observable before inactivity are associated with a higher likelihood of subsequent dormancy. Although STADIOEquities collects app and web behaviour, account and funding information, trading activity, product and subscription data, demographics, support interactions and marketing engagement, the briefing pack states that these data sources are rarely joined into one client view.
 The proposed Data Science project will therefore investigate whether historical client data available before a defined prediction point can be used to identify clients who are likely to become dormant within six months. The study will examine relationships between onboarding, funding, digital engagement, trading, products, client profiles, support and marketing engagement and the subsequent dormancy outcome. The objective is to provide a defensible data-driven basis for earlier and more targeted client-engagement decisions.
 
-## Part E – RAAIDD Log
+# Part E – RAAIDD Log
 
 | RAAIDD | Description |
 |---|---|
